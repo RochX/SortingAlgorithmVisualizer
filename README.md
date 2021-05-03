@@ -16,4 +16,5 @@ It features the following sorting algorithms:
 The program shuffles the list of numbers before it runs the selected sorting algorithm, and then runs it. It can use any size of array and can be stopped midway through in case the algorithm takes too long.
 
 ## Demonstration Video
+Click below to view the demo video (video should open in new tab).
 [![](http://img.youtube.com/vi/so9tq-xOcKc/0.jpg)](http://www.youtube.com/watch?v=so9tq-xOcKc "")
